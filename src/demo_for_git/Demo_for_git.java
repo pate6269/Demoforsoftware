@@ -17,6 +17,7 @@ public class Demo_for_git {
         // TODO code application logic here
         // making chnage 
         //pull change
+        // fetch change and merge
     }
     
 }
